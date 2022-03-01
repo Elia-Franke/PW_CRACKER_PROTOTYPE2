@@ -57,4 +57,3 @@ while True:
 
             if play_again != 'ja':
                 break
-        print("Tschau!")
